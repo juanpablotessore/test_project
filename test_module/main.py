@@ -1,4 +1,4 @@
-from bin.globals import *
+from helpers.globals import *
 
 if __name__ == "__main__":
 
