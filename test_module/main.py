@@ -1,4 +1,4 @@
-from .bin.globals import global_text
+from bin.globals import global_text
 
 if __name__ == "__main__":
 
