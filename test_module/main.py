@@ -1,7 +1,7 @@
-from bin.globals import global_text
+from bin.globals import *
 
 if __name__ == "__main__":
 
-    print(global_text)
+    print(GLOBAL_TEXT)
     
     var_1 = 1

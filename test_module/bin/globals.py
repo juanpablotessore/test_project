@@ -1,1 +1,1 @@
-global_text = "my text"
+GLOBAL_TEXT = "my text"
